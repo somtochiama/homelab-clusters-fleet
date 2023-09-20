@@ -4,4 +4,3 @@ resources:
 - https://github.com/kubernetes-sigs/cluster-api-operator/releases/download/v0.6.0/operator-components.yaml
 - ingress-nginx
 - weave-gitops
-- cert-manager
